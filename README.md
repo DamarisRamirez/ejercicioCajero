@@ -26,7 +26,10 @@ Opción 4: Quejas (No le contestas y termina la sesión).
  
 Opción 5: Último movimiento
           Fecha YYYY/MM/DD y hora y último movimiento realizado.
+          
 Opción 7: Hablar con un asesor (enviar mensaje que no es horario de atención).
+
 Opción 9: Salir del cajero
+
 Opción desconocida: Indica el error y vuelve a preguntar
           Si se equivoca 3 veces seguidas, termina la sesión.
